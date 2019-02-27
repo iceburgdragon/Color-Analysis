@@ -6,3 +6,5 @@ Input the name of the image, including the file extension, (e.g. "image.jpg"). I
 Histogram that plots the frequency of each hue used
 A radial histogram that plots the frequency of each hue used
 3D scatter plot that plots each cluster of pixels by its hue, saturation, and value
+
+color_analysis.ipynb runs the code with the plots using an image of Starry Night by artist Vincent Van Gogh.
